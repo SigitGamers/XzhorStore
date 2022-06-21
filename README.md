@@ -1,2 +1,0 @@
-# XzhorStore
-Simple Web Store
